@@ -1,0 +1,4 @@
+Este es un archivo de texto
+que servirá como ejemplo
+para contar caracteres, palabras y renglones.
+Esta es una línea extra de prueba.
